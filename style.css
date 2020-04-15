@@ -1,0 +1,28 @@
+body{
+background-color: #e3e0e9;
+margin: 0px;
+padding: 0px;
+}
+ul{
+list-style: none;
+}
+a{
+text-decoration: none;   
+}
+nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 50px;
+background-color: #ffffff;
+padding: 0px 5px;
+margin-top: 0px;
+}
+nav ul{
+display: flex;
+}
+nav ul li a {
+margin: 30px;
+font-size: 15px;
+font-weight: 700;
+}
